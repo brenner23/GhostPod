@@ -102,7 +102,7 @@ On first start the GhostPod opens its own Wi-Fi **`GhostPod-XXXX`** (password `g
 ## History
 
 - **Ghost Pod 1.x / 2.x** – Arduino sketch ([`legacy/`](legacy/) – the originals to read) hashing touch readings with mbedTLS (20–60 kH/s), LEDs by leading hex zeros. Version 2.6 ran for **61.7 days** and found **465 "full ghosts"**; that "era 2.6" is imported from flash and shown on the web page.
-- **GhostPod 3.0** – real Stratum miner based on [ESPressMiner32](https://github.com/brenner23/ESPressMiner32), hardware SHA, LEDs by real difficulty, antenna picks the search location.
+- **GhostPod 3.0** – real Stratum miner derived from [ESPressMiner32-DevKitC-MicroUSB](https://github.com/brenner23/ESPressMiner32-DevKitC-MicroUSB) (the Micro-USB variant of [ESPressMiner32](https://github.com/brenner23/ESPressMiner32) with the ESP32 revision-1 fix), hardware SHA, LEDs by real difficulty, antenna picks the search location.
 
 ## Who did what?
 
@@ -112,7 +112,7 @@ Firmware 3.0 is AI-assisted (Claude by Anthropic): the miner core, web page and 
 
 ## Thanks
 
-[ESPressMiner32](https://github.com/brenner23/ESPressMiner32) (miner core, Stratum, web UI, setup portal) · buffered SHA register idea from [SparkMiner](https://github.com/BitzyLabs/sparkminer) (MIT) · see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
+[ESPressMiner32-DevKitC-MicroUSB](https://github.com/brenner23/ESPressMiner32-DevKitC-MicroUSB) – direct base (miner core, Stratum, web UI, setup portal, DPORT workaround for revision-1 chips) · [ESPressMiner32](https://github.com/brenner23/ESPressMiner32) – the main project behind it · buffered SHA register idea from [SparkMiner](https://github.com/BitzyLabs/sparkminer) (MIT) · see [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md)
 
 ## License
 
