@@ -131,8 +131,16 @@ Beim ersten Start öffnet der GhostPod ein eigenes WLAN **`GhostPod-XXXX`** (Pas
 
 ## Geschichte
 
-- **Ghost Pod 1.x / 2.x** – Arduino-Sketch, hashte die Touch-Werte mit mbedTLS (20–60 kH/s), LEDs nach führenden Hex-Nullen. Version 2.6 lief **61,7 Tage** und fand **465 Vollgeister**. Diese „Ära 2.6“ wird beim Umstieg aus dem Flash übernommen und auf der Webseite als Erinnerung angezeigt.
+- **Ghost Pod 1.x / 2.x** – Arduino-Sketch ([`legacy/`](legacy/) – die Originale zum Nachlesen), hashte die Touch-Werte mit mbedTLS (20–60 kH/s), LEDs nach führenden Hex-Nullen. Version 2.6 lief **61,7 Tage** und fand **465 Vollgeister**. Diese „Ära 2.6“ wird beim Umstieg aus dem Flash übernommen und auf der Webseite als Erinnerung angezeigt.
 - **GhostPod 3.0** – echter Stratum-Miner auf Basis von [ESPressMiner32](https://github.com/brenner23/ESPressMiner32), Hardware-SHA, LEDs nach echter Difficulty, Antenne bestimmt den Suchort.
+
+---
+
+## Wer hat was gemacht?
+
+Idee, Konzept, Hardware und Ghost Pod 1.x–2.6: **brenner23**.
+
+Die Firmware 3.0 ist mit KI-Unterstützung entstanden (Claude von Anthropic): Miner-Kern, Webseite und Antennen-Logik wurden gemeinsam geschrieben. Vorgaben, Tests am echten Gerät und alle Entscheidungen kamen von brenner23.
 
 ---
 
