@@ -15,8 +15,13 @@ Der Unterschied zu den Geräten aus dem Fernsehen: Der GhostPod jagt keine Geist
 
 ## Galerie
 
-<p align="center"><img src="docs/ghostpod.jpg" alt="GhostPod: Tiramisu-Eisbecher mit Kupferband, Teleskopantenne und sechs LEDs im Deckel" width="360"></p>
-<p align="center"><i>Der GhostPod: Tiramisu-Eisbecher, Kupferband als Gegenpol, Teleskopantenne in Heißkleber, sechs LEDs im Deckel.</i></p>
+<p align="center">
+<img src="docs/ghostpod.jpg" alt="GhostPod: Tiramisu-Eisbecher mit Kupferband, Teleskopantenne und sechs LEDs im Deckel" height="380">
+&nbsp;
+<img src="docs/ghostpod_blumentopf.jpg" alt="GhostPod im Blumentopf bei der Geistersuche: zwei rote und zwei grüne LEDs leuchten" height="380">
+</p>
+<p align="center"><i>Links: der GhostPod – Tiramisu-Eisbecher, Kupferband als Gegenpol, Teleskopantenne in Heißkleber, sechs LEDs im Deckel.<br>
+Rechts: daher der Projektname „Blumentopf-Miner“ – im Einsatz bei der Geistersuche: 9 Uhr (Lebenszeichen) und 12 Uhr (Share) leuchten rot, beide grünen melden „Suche läuft“.</i></p>
 
 ---
 

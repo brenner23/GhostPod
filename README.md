@@ -15,8 +15,13 @@ Unlike the TV gadgets, the GhostPod doesn't hunt ghosts in abandoned houses with
 
 ## Gallery
 
-<p align="center"><img src="docs/ghostpod.jpg" alt="GhostPod: tiramisu ice-cream tub with copper tape, telescopic antenna and six LEDs in the lid" width="360"></p>
-<p align="center"><i>The GhostPod: tiramisu ice-cream tub, copper tape as counterpoise, telescopic antenna in hot glue, six LEDs in the lid.</i></p>
+<p align="center">
+<img src="docs/ghostpod.jpg" alt="GhostPod: tiramisu ice-cream tub with copper tape, telescopic antenna and six LEDs in the lid" height="380">
+&nbsp;
+<img src="docs/ghostpod_blumentopf.jpg" alt="GhostPod in a flower pot during a ghost hunt: two red and two green LEDs lit" height="380">
+</p>
+<p align="center"><i>Left: the GhostPod – tiramisu ice-cream tub, copper tape as counterpoise, telescopic antenna in hot glue, six LEDs in the lid.<br>
+Right: hence the project's nickname "flower-pot miner" – hunting ghosts: 9 o'clock (sign of life) and 12 o'clock (share) glow red, both greens say "searching".</i></p>
 
 ---
 
