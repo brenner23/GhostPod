@@ -23,7 +23,7 @@ Unlike the TV gadgets, the GhostPod doesn't hunt ghosts in abandoned houses with
 <p align="center"><i>Left: the GhostPod – tiramisu ice-cream tub, copper tape as counterpoise, telescopic antenna in hot glue, six LEDs in the lid.<br>
 Right: hence the project's nickname "flower-pot miner" – hunting ghosts: 9 o'clock (sign of life) and 12 o'clock (share) glow red, both greens say "searching".</i></p>
 
-<p align="center"><img src="docs/dashboard.jpg" alt="Full GhostPod web page: live lid, ghost levels, antenna, chronicle, hashrate and pool" width="560"></p>
+<p align="center"><img src="docs/dashboard_komplett.jpg" alt="Full GhostPod web page: live lid, ghost levels, antenna, chronicle, hashrate and pool" width="560"></p>
 <p align="center"><i>The full web page after about three and a half hours, caught in the result phase: 9 and 12 o'clock are lit. Below: antenna, ghost chronicle (incl. era 2.6), hashrate history and pool. Wallet address and IP are blacked out.</i></p>
 
 ---
