@@ -13,6 +13,13 @@ Der Unterschied zu den Geräten aus dem Fernsehen: Der GhostPod jagt keine Geist
 
 ---
 
+## Galerie
+
+<p align="center"><img src="docs/ghostpod.jpg" alt="GhostPod: Tiramisu-Eisbecher mit Kupferband, Teleskopantenne und sechs LEDs im Deckel" width="360"></p>
+<p align="center"><i>Der GhostPod: Tiramisu-Eisbecher, Kupferband als Gegenpol, Teleskopantenne in Heißkleber, sechs LEDs im Deckel.</i></p>
+
+---
+
 ## Was die LEDs bedeuten
 
 Draufsicht auf den Deckel, Antenne in der Mitte:

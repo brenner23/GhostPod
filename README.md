@@ -13,6 +13,13 @@ Unlike the TV gadgets, the GhostPod doesn't hunt ghosts in abandoned houses with
 
 ---
 
+## Gallery
+
+<p align="center"><img src="docs/ghostpod.jpg" alt="GhostPod: tiramisu ice-cream tub with copper tape, telescopic antenna and six LEDs in the lid" width="360"></p>
+<p align="center"><i>The GhostPod: tiramisu ice-cream tub, copper tape as counterpoise, telescopic antenna in hot glue, six LEDs in the lid.</i></p>
+
+---
+
 ## What the LEDs mean
 
 Lid seen from above, antenna in the middle:
