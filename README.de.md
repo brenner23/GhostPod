@@ -23,8 +23,8 @@ Der Unterschied zu den Geräten aus dem Fernsehen: Der GhostPod jagt keine Geist
 <p align="center"><i>Links: der GhostPod – Tiramisu-Eisbecher, Kupferband als Gegenpol, Teleskopantenne in Heißkleber, sechs LEDs im Deckel.<br>
 Rechts: daher der Projektname „Blumentopf-Miner“ – im Einsatz bei der Geistersuche: 9 Uhr (Lebenszeichen) und 12 Uhr (Share) leuchten rot, beide grünen melden „Suche läuft“.</i></p>
 
-<p align="center"><img src="docs/dashboard_komplett.jpg" alt="Komplette Webseite des GhostPod: Deckel-Ansicht, Geister-Stufen, Antenne, Chronik, Hashrate und Pool" width="560"></p>
-<p align="center"><i>Die komplette Webseite nach gut dreieinhalb Stunden, gerade in der Ergebnis-Phase: 9 Uhr und 12 Uhr leuchten. Darunter Antenne, Geister-Chronik (inkl. Ära 2.6), Hashrate-Verlauf und Pool. Wallet-Adresse und IP sind geschwärzt.</i></p>
+<p align="center"><img src="docs/webseite.jpg" alt="Komplette Webseite des GhostPod: Deckel-Ansicht, Geister-Stufen, Antenne, Chronik, Hashrate und Pool" width="560"></p>
+<p align="center"><i>Die komplette Webseite nach gut dreieinhalb Stunden, gerade in der Ergebnis-Phase: 9 Uhr und 12 Uhr leuchten. Darunter Antenne, Geister-Chronik (inkl. Ära 2.6), Hashrate-Verlauf und Pool. Pool-Adresse, Wallet-Adresse und IP sind geschwärzt.</i></p>
 
 ---
 
